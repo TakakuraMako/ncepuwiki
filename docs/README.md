@@ -8,12 +8,11 @@ config:
     background: tint-plate
     hero:
       name: NCEPUwiki
-      
       text: 基于VuePress的Theme Plume主题Wiki
       actions:
         -
           theme: brand
-          text: 访问WIKI
+          text: 进入WIKI
           link: /blog/
         -
           theme: alt
