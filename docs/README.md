@@ -20,3 +20,4 @@ config:
           text: Github →
           link: https://github.com/pengzhanbo/vuepress-theme-plume
 ---
+1
