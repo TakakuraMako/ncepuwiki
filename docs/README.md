@@ -14,9 +14,9 @@ config:
         -
           theme: brand
           text: 访问WIKI
-          link: /wiki/
+          link: /blog/
         -
           theme: alt
           text: Github →
-          link: https://github.com/pengzhanbo/vuepress-theme-plume
+          link: https://github.com/TakakuraMako/ncepuwiki/
 ---
