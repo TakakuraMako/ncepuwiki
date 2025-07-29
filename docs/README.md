@@ -7,8 +7,8 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: Theme Plume
-      tagline: VuePress Next Theme
+      name: NCEPUwiki
+      
       text: 基于VuePress的Theme Plume主题Wiki
       actions:
         -
@@ -20,4 +20,7 @@ config:
           text: Github →
           link: https://github.com/pengzhanbo/vuepress-theme-plume
 ---
-1
+
+# test
+
+tagline: VuePress Next Theme
