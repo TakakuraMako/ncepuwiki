@@ -9,11 +9,11 @@ config:
     hero:
       name: Theme Plume
       tagline: VuePress Next Theme
-      text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
+      text: 基于VuePress的Theme Plume主题Wiki
       actions:
         -
           theme: brand
-          text: 博客
+          text: 访问
           link: /blog/
         -
           theme: alt
