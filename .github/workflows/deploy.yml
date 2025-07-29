@@ -35,6 +35,8 @@ jobs:
       - name: Install Dependencies
         run: pnpm install --frozen-lockfile
 
+      - name: Install missing VuePress dependencies
+        run: pnpm add -D pyodide chart.js echarts mermaid flowchart.ts artplayer
 
       # 运行构建脚本
       # Run the build script
