@@ -13,14 +13,10 @@ config:
       actions:
         -
           theme: brand
-          text: 访问
-          link: /blog/
+          text: 访问WIKI
+          link: /wiki/
         -
           theme: alt
           text: Github →
           link: https://github.com/pengzhanbo/vuepress-theme-plume
 ---
-
-# test
-
-tagline: VuePress Next Theme
