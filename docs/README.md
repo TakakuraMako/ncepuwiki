@@ -1,5 +1,5 @@
 ---
-pageLayout: home
+
 externalLinkIcon: false
 config:
   -
@@ -19,13 +19,6 @@ config:
           theme: alt
           text: Github →
           link: https://github.com/TakakuraMako/ncepuwiki/
-
-        - type: info
-          title: 📌 test1
-          description: |
-            ### test2  
-            Hello  
-            **hello**
 ---
 full: true
 # test
@@ -35,5 +28,7 @@ full: true
 ### test2
 
 Hello
+
+pageLayout: home
 
 **hello**
