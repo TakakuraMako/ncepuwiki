@@ -14,7 +14,7 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/ncepuwiki/',
+  base: '/',
   lang: 'zh-CN',
   title: 'NCEPUwiki',
   description: '',
