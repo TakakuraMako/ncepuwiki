@@ -19,6 +19,12 @@ config:
           theme: alt
           text: Github →
           link: https://github.com/TakakuraMako/ncepuwiki/
+    - type: info
+    title: 📌 test1
+    description: |
+      ### test2  
+      Hello  
+      **hello**
 ---
 full: true
 # test
