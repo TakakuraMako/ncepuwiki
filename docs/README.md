@@ -4,7 +4,7 @@ externalLinkIcon: false
 config:
   -
     type: hero
-    full: true
+    
     background: tint-plate
     hero:
       name: NCEPUwiki
@@ -19,3 +19,5 @@ config:
           text: Github →
           link: https://github.com/TakakuraMako/ncepuwiki/
 ---
+full: true
+# test
