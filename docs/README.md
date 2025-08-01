@@ -6,8 +6,6 @@ config:
     type: hero
     hero:
       name: Theme Plume
-      tagline: VuePress Next Theme
-      text: 一
 
   -
     type: features
