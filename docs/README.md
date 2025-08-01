@@ -6,7 +6,6 @@ config:
     type: hero
     hero:
       name: NCEPUwiki
-      tagline: 华电学子百科
       actions:
         -
           theme: brand
