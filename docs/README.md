@@ -7,16 +7,8 @@ config:
     hero:
       name: Theme Plume
       tagline: VuePress Next Theme
-      text: 一个简约易用的，功能丰富的 vuepress 文档&博客 主题
-      actions:
-        -
-          theme: brand
-          text: 快速开始 →
-          link: /guide/intro/
-        -
-          theme: alt
-          text: Github
-          link: https://github.com/pengzhanbo/vuepress-theme-plume
+      text: 一
+
   -
     type: features
     features:
