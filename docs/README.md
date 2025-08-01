@@ -21,16 +21,22 @@ config:
 
 ## 关于
 
-本网站用于整合华电各类信息，包括但不限于学习资料、入学指引、QQ群等
+本网站用于整合华电各类信息，包括但不限于学习资料、入学指引、QQ群等。
 
-本网站使用VuePress的 [vuepress-theme-plume](https://plume.pengzhanbo.cn/guide/intro/)  主题搭建，托管在Github
+本网站使用VuePress的 [vuepress-theme-plume](https://plume.pengzhanbo.cn/guide/intro/)  主题搭建，托管在Github。
 
-::: 入学必备
+当前网站还在初期建设阶段，仅部署在个人账号，之后会在organization重新部署
 
-跳转
+## 贡献
 
+现在网站几乎没有任何内容，如果你：
 
-:::
+- 会前端，尤其是VuePress，并且会使用或者能够学习使用github pages
+- 想写一些内容文章，比如学校介绍，转专业，新生必备物品等
+- 或者对网站有任何建议或想法
+  
+都欢迎进QQ群417695180 @作者鹰仓茉子(1361942776)
+
 
 
 
