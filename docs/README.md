@@ -1,23 +1,7 @@
 ---
 home: true
-externalLinkIcon: false
 config:
     -
-      type: hero
       pageLayout: home
-      full: true
-      background: tint-plate
-      hero:
-        name: NCEPUwiki
-        text: 基于VuePress的Theme Plume主题Wiki
-        actions:
-          -
-            theme: brand
-            text: 进入WIKI
-            link: /blog/
-          -
-            theme: alt
-            text: Github →
-            link: https://github.com/TakakuraMako/ncepuwiki/
 
 ---
