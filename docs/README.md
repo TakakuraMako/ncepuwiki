@@ -150,6 +150,3 @@ npm run docs:dev
 
 :::
 
-### 更新记录
-
-[Changelog](./changelog.md)
