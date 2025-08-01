@@ -6,98 +6,7 @@ config:
     type: hero
     hero:
       name: NCEPUwiki
-      tagline: 华电学子百科1
-
-  -
-    type: features
-    features:
-      -
-        title: 响应式布局
-        
-        details: 适配移动设备，PC，平板
-      -
-        title: 博客 & 文档
-        
-        details: 无论是想写博客，或想写产品文档，或者两者兼顾
-      -
-        title: 开箱即用
-        
-        details: 零配置开箱即用，丰富的自定义配置
-      -
-        title: 多语言
-        
-        details: 内置 中文、英文等 7 种语言支持，还可以自定义添加更多的语言支持
-      -
-        title: 双色主题
-        
-        details: 支持 浅色/深色 主题，包括代码高亮
-      -
-        title: 插件
-        
-        details: 内置丰富的插件，一站式解决网站一般需求
-      -
-        title: 搜索、评论
-        
-        details: 支持多种评论系统，支持本地搜索、Algolia搜索
-      -
-        title: 加密
-        
-        details: 支持全站加密、部分加密（加密目录、加密文章）
-      -
-        title: Markdown 增强
-        
-        details: 在常规 markdown 语法的基础上，添加数十种增强语法，如自定义容器、文件树、代码分组等
-  -
-    type: image-text
-    title: 功能
-    description: 内置丰富的功能，满足网站一般需求。
-    
-    list:
-      -
-        title: 文章信息
-        description: 为文章添加标签、分类、字数统计、阅读时间、写作日期等信息。
-      -
-        title: 评论
-        description: 支持 4 种评论系统：Giscus、Waline、Twikoo、Artalk<br>你可以自由选择符合你的需求的评论系统。
-      -
-        title: 搜索
-        description: 支持基于 minisearch 的本地搜索，还支持接入 Algolia 搜索。
-      -
-        title: 加密
-        description: 支持全站加密、部分加密（加密目录、加密文章）。
-      -
-        title: 代码
-        description: 代码复制，CodePen演示，JSFiddle演示，CodeSandbox演示，代码组，行高亮，行聚焦，行警告，差异对比，代码块折叠等。
-      -
-        title: 资源嵌入
-        description: 图表：chart.js/ECharts/Mermaid/flowchart<br>视频：Bilibili/Youtube/ArtPlayer<br>PDF，200K+ Iconify 图标
-  -
-    type: text-image
-    title: 博客
-    description: 主题默认支持博客，生成你的个人博客。
-    
-    list:
-      -
-        title: 文章列表
-        description: 通过文章写作日期，自动排序并生成博客文章列表页。
-      -
-        title: 博主信息
-        description: 自定义名称、座右铭、头像，社交媒体链接。
-      -
-        title: 分类、标签、归档
-        description: 自动生成分类页、标签页，为文章根据年份进行归档。
-  -
-    type: image-text
-    title: 文档
-    
-    description: 主题默认支持文档，生成你的产品文档，或归纳你的知识体系。
-    list:
-      -
-        title: 侧边栏
-        description: 根据文档目录自动生成侧边栏，也可以手动配置，主题提供了更简单的配置方式。
-      -
-        title: 文档分类归纳
-        description: 可以文档的不同，归纳到不同的目录，更好的管理文档结构。
+      tagline: 华电学子百科
   -
     type: custom
 ---
@@ -139,26 +48,6 @@ npm run docs:dev
 
 :::
 
-
-### 贡献者
-
-感谢所有的贡献者！
-
-<Contributors
-  :contributors="[
-    'pengzhanbo',
-    { github: 'huankong233', name: 'huan_kong' },
-    { github: 'northword', name: 'Northword' },
-    'KrLite',
-    'shylock-wu',
-    'hrradev',
-    { github: 'TheCoderAlex', name: 'Tang Zifeng' },
-    { github: 'HydroGest', name: 'MarkChai' },
-    { github: 'sunnyboy-mu', name: '小沐沐吖' },
-    { github: 'zhenghaoyang24', name: 'zhenghaoyang24' },
-    { github: 'shuoliuchn', name: 'Shuo Liu' },
-  ]"
-/>
 
 </div>
 
