@@ -24,45 +24,45 @@ config:
     features:
       -
         title: 响应式布局
-        icon: twemoji:laptop-computer
+        
         details: 适配移动设备，PC，平板
       -
         title: 博客 & 文档
-        icon: twemoji:open-book
+        
         details: 无论是想写博客，或想写产品文档，或者两者兼顾
       -
         title: 开箱即用
-        icon: twemoji:rocket
+        
         details: 零配置开箱即用，丰富的自定义配置
       -
         title: 多语言
-        icon: twemoji:balance-scale
+        
         details: 内置 中文、英文等 7 种语言支持，还可以自定义添加更多的语言支持
       -
         title: 双色主题
-        icon: twemoji:cityscape
+        
         details: 支持 浅色/深色 主题，包括代码高亮
       -
         title: 插件
-        icon: twemoji:card-file-box
+        
         details: 内置丰富的插件，一站式解决网站一般需求
       -
         title: 搜索、评论
-        icon: twemoji:magnifying-glass-tilted-right
+        
         details: 支持多种评论系统，支持本地搜索、Algolia搜索
       -
         title: 加密
-        icon: twemoji:locked-with-key
+        
         details: 支持全站加密、部分加密（加密目录、加密文章）
       -
         title: Markdown 增强
-        icon: twemoji:writing-hand-light-skin-tone
+        
         details: 在常规 markdown 语法的基础上，添加数十种增强语法，如自定义容器、文件树、代码分组等
   -
     type: image-text
     title: 功能
     description: 内置丰富的功能，满足网站一般需求。
-    image: /images/plume-1.svg
+    
     list:
       -
         title: 文章信息
@@ -86,7 +86,7 @@ config:
     type: text-image
     title: 博客
     description: 主题默认支持博客，生成你的个人博客。
-    image: /images/plume-2.svg
+    
     list:
       -
         title: 文章列表
@@ -100,7 +100,7 @@ config:
   -
     type: image-text
     title: 文档
-    image: /images/plume-3.svg
+    
     description: 主题默认支持文档，生成你的产品文档，或归纳你的知识体系。
     list:
       -
@@ -150,9 +150,6 @@ npm run docs:dev
 
 :::
 
-### 更新记录
-
-[Changelog](./changelog.md)
 
 ### 贡献者
 
@@ -176,12 +173,3 @@ npm run docs:dev
 
 </div>
 
-<style>
-.home-custom-content img {
-  cursor: default !important;
-}
-</style>
-
-<script setup>
-import Contributors from '~/components/Contributors.vue'
-</script>
