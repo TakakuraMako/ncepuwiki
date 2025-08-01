@@ -150,3 +150,38 @@ npm run docs:dev
 
 :::
 
+### 更新记录
+
+[Changelog](./changelog.md)
+
+### 贡献者
+
+感谢所有的贡献者！
+
+<Contributors
+  :contributors="[
+    'pengzhanbo',
+    { github: 'huankong233', name: 'huan_kong' },
+    { github: 'northword', name: 'Northword' },
+    'KrLite',
+    'shylock-wu',
+    'hrradev',
+    { github: 'TheCoderAlex', name: 'Tang Zifeng' },
+    { github: 'HydroGest', name: 'MarkChai' },
+    { github: 'sunnyboy-mu', name: '小沐沐吖' },
+    { github: 'zhenghaoyang24', name: 'zhenghaoyang24' },
+    { github: 'shuoliuchn', name: 'Shuo Liu' },
+  ]"
+/>
+
+</div>
+
+<style>
+.home-custom-content img {
+  cursor: default !important;
+}
+</style>
+
+<script setup>
+import Contributors from '~/components/Contributors.vue'
+</script>
