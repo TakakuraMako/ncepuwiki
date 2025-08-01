@@ -5,7 +5,8 @@ config:
   -
     type: hero
     hero:
-      name: Theme Plume
+      name: NCEPUwiki
+      tagline: 华电学子百科1
 
   -
     type: features
