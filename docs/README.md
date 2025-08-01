@@ -4,8 +4,6 @@ title: Vuepress Theme Plume
 config:
   -
     type: hero
-    full: true
-    background: tint-plate
     hero:
       name: Theme Plume
       tagline: VuePress Next Theme
