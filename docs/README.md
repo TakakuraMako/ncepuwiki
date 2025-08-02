@@ -18,6 +18,36 @@ config:
 <div style="max-width: 960px;margin:0 auto;">
 
 
+<h2 style="text-align: center;">专题入口</h2>
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 2rem;">
+  
+  <div style="text-align: center; width: 200px;">
+    <a href="/blog/01.入学/">
+      <img src="/icons/new-student.png" alt="新生入学" style="width: 80px; height: 80px;">
+      <h3>新生入学</h3>
+    </a>
+    <p>2024年新生入学指南</p>
+  </div>
+
+  <div style="text-align: center; width: 200px;">
+    <a href="/blog/03.群汇总/">
+      <img src="/icons/qq-group.png" alt="群汇总" style="width: 80px; height: 80px;">
+      <h3>群汇总</h3>
+    </a>
+    <p>学习与兴趣QQ群汇总</p>
+  </div>
+
+  <div style="text-align: center; width: 200px;">
+    <a href="/blog/04.社团组织/">
+      <img src="/icons/club.png" alt="社团组织" style="width: 80px; height: 80px;">
+      <h3>社团组织</h3>
+    </a>
+    <p>学生社团介绍</p>
+  </div>
+
+</div>
+
+
 ## 关于
 
 本网站用于整合华电各类信息，包括但不限于学习资料、入学指引、QQ群等。
@@ -35,8 +65,5 @@ config:
 - **或者**对网站有任何建议或想法
   
 都欢迎进QQ群417695180 @作者鹰仓茉子(1361942776)
-
-
-
 
 </div>
