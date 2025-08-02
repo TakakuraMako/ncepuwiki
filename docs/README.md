@@ -23,7 +23,7 @@ config:
   
   <div style="text-align: center; width: 200px;">
     <a href="/blog/01.入学/">
-      <img src="/icons/new-student.png" alt="新生入学" style="width: 80px; height: 80px;">
+      <img src="https://img.icons8.com/color/96/student-male--v1.png" alt="新生入学" style="width: 80px; height: 80px;">
       <h3>新生入学</h3>
     </a>
     <p>2024年新生入学指南</p>
@@ -31,7 +31,7 @@ config:
 
   <div style="text-align: center; width: 200px;">
     <a href="/blog/03.群汇总/">
-      <img src="/icons/qq-group.png" alt="群汇总" style="width: 80px; height: 80px;">
+      <img src="https://img.icons8.com/color/96/student-male--v1.png" alt="群汇总" style="width: 80px; height: 80px;">
       <h3>群汇总</h3>
     </a>
     <p>学习与兴趣QQ群汇总</p>
@@ -39,7 +39,7 @@ config:
 
   <div style="text-align: center; width: 200px;">
     <a href="/blog/04.社团组织/">
-      <img src="/icons/club.png" alt="社团组织" style="width: 80px; height: 80px;">
+      <img src="https://img.icons8.com/color/96/student-male--v1.png" alt="社团组织" style="width: 80px; height: 80px;">
       <h3>社团组织</h3>
     </a>
     <p>学生社团介绍</p>
